@@ -9,7 +9,7 @@ Product.destroy_all
 
 50.times do
   Product.create!( name: Faker::Book.title,
-                   cost: Faker::Commerce.price,
+                   price: Faker::Commerce.price,
                    )
 end
 p "Created #{Product.count} products"
