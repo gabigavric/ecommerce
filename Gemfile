@@ -18,6 +18,7 @@ gem 'turbolinks', '~> 5'
 gem 'jbuilder', '~> 2.5'
 gem 'faker'
 gem 'capybara'
+gem 'rest-client'
 # gem 'devise', '~> 4.3'
 # gem "paperclip", "~> 5.0.0"
 # gem 'rails_admin', '~> 1.2'
